@@ -1,7 +1,7 @@
 <annotation>
-	<folder>imges2</folder>
+	<folder>annotation</folder>
 	<filename>FudanPed00001.jpg</filename>
-	<path>C:\Users\hanmb\work\imges2\FudanPed00001.jpg</path>
+	<path>/home/sskcomjp/work/people_dataset/annotation/FudanPed00001.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
